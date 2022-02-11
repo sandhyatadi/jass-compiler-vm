@@ -1,13 +1,10 @@
-# SER502-Spring2021-Team21
+# JASS Compiler
 
-* Project:Compiler and Virtual Machine for a Programming Language 
+* Project:Compiler and Virtual Machine for JASS Programming Language 
 * Name of the language created: JASS
 
-* Team Members:
-  Akhila Sai Mandava - 1220311417
-  Jigisha Deven Gadhia - 1221069187
-  Sandhya Tadi - 1219346947
-  Venkata Naga Sonia Kalidindi - 1219398622 
+* Owner:
+  Sandhya Tadi
 
 * System on which the project is built: Windows
 
